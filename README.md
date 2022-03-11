@@ -8,7 +8,7 @@ O objetivo do projeto foi recriar a interface de login para a empresa Idm Busine
 
 # Layout do projeto
 
-![Prévia da Imagem](idmMoça.JPG)
+![Prévia da Imagem](img/idmMo%C3%A7a.JPG)
 
 # Tecnologias utilizadas
 
@@ -16,9 +16,6 @@ O objetivo do projeto foi recriar a interface de login para a empresa Idm Busine
 * CSS 
 * Javascript
 * Fontawesome
-* React.js
-* Axios
-* Api da viacep.com.br/ws/
 * Google Fonts 
 
 # Autor
