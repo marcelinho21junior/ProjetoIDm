@@ -8,7 +8,7 @@ O objetivo do projeto foi recriar a interface de login para a empresa Idm Busine
 
 # Layout do projeto
 
-![Prévia da Imagem](idmMoça.PNG)
+![Prévia da Imagem](idmMoça.JPG)
 
 # Tecnologias utilizadas
 
